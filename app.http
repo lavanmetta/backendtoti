@@ -1,0 +1,15 @@
+GET http://localhost:3002/about/
+
+### 
+
+GET http://localhost:3002/services/
+
+###
+GET http://localhost:3002/portfolio/
+
+
+###
+GET http://localhost:3002/clients/
+
+###
+GET http://localhost:3002/reviews/
